@@ -1,1 +1,0 @@
-loadstring(game:HttpGet("https://raw.githubusercontent.com/UniversalHub-lua/Psychic-octo-invention/refs/heads/main/SolarHub/Script.loader"))() 
